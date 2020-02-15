@@ -1,0 +1,34 @@
+P2P-CI/1.0 200 OK
+Date: Tue, 24 Apr 2018 02:14:51GMT
+
+OS: Darwin 17.5.0
+Last-Modified: Tue, 24 Apr 2018 00:27:02 GMT
+
+Content-Length: 1188
+Content-Type: text/text
+Network Working Group                                    P. Resnick, Ed.
+Request for Comments: 5322                         Qualcomm Incorporated
+Obsoletes: 2822                                             October 2008
+Updates: 4021
+Category: Standards Track
+
+
+                        Internet Message Format
+
+Status of This Memo
+
+   This document specifies an Internet standards track protocol for the
+   Internet community, and requests discussion and suggestions for
+   improvements.  Please refer to the current edition of the "Internet
+   Official Protocol Standards" (STD 1) for the standardization state
+   and status of this protocol.  Distribution of this memo is unlimited.
+
+Abstract
+
+   This document specifies the Internet Message Format (IMF), a syntax
+   for text messages that are sent between computer users, within the
+   framework of "electronic mail" messages.  This specification is a
+   revision of Request For Comments (RFC) 2822, which itself superseded
+   Request For Comments (RFC) 822, "Standard for the Format of ARPA
+   Internet Text Messages", updating it to reflect current practice and
+   incorporating incremental changes that were specified in other RFCs.
